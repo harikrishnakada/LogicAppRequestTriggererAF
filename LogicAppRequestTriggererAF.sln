@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogicAppRequestTriggererAF", "LogicAppRequestTriggererAF\LogicAppRequestTriggererAF.csproj", "{75575BE2-D96A-41C7-84D3-EBA6511D1734}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiClient", "ApiClient\ApiClient.csproj", "{A794297D-7D9B-489F-B7CE-DFD4202EBB43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75575BE2-D96A-41C7-84D3-EBA6511D1734}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75575BE2-D96A-41C7-84D3-EBA6511D1734}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75575BE2-D96A-41C7-84D3-EBA6511D1734}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75575BE2-D96A-41C7-84D3-EBA6511D1734}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A794297D-7D9B-489F-B7CE-DFD4202EBB43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A794297D-7D9B-489F-B7CE-DFD4202EBB43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A794297D-7D9B-489F-B7CE-DFD4202EBB43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A794297D-7D9B-489F-B7CE-DFD4202EBB43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BAD9A09-AF2C-49BD-B780-7AF4AA332642}
+	EndGlobalSection
+EndGlobal
